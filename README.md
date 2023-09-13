@@ -76,3 +76,7 @@ You can run at least 100 threads(ZennoBOX has a limit of 20 for all projects) - 
 ## You can buy a Twitter account registrar by contacting the contacts below:
 
 ## Telegram: @AlexKravchenko88 or https://t.me/AlexKravchenko88
+
+## Screenshots
+
+![Screenshot](Photo of the project work.png)
