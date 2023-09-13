@@ -28,7 +28,7 @@
 Есть разные варианты подписки 1 месяц (50$), 6 месяцев(150$), 12 месяцев(250$)
 
 Время создания одного аккаунта: 2-10 минут. Это зависит от скорости разгадывания капчи сервисом rucapcha.
-Можно запускать хоть в 100 потоков - шаблон работает на запросах - потребление ресурсов минимальное!
+Можно запускать хоть в 100 потоков(в ZennoBOX ограничение 20 на все проекты) - шаблон работает на запросах - потребление ресурсов минимальное!
 
 
 ## Купить регистратор аккаунтов Twitter вы можете обратившись по контактам ниже:
@@ -70,7 +70,7 @@ If you buy the Zennoposter template now, all updates are free for the subscripti
 There are different subscription options 1 month ($50), 6 months ($150), 12 months ($250)
 
 Time to create one account: 2-10 minutes. It depends on the speed of captcha solving by rucapcha service.
-You can run at least 100 threads - the template works on requests - the resource consumption is minimal!
+You can run at least 100 threads(ZennoBOX has a limit of 20 for all projects) - the template works on requests - the resource consumption is minimal!
 
 
 ## You can buy a Twitter account registrar by contacting the contacts below:
