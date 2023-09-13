@@ -1,8 +1,5 @@
 # Регистратор аккаунтов Twitter на запросах (Шаблон Zennoposter)
  
-
- 
-
 Шаблон Zennoposter регистрирует аккаунты в Twitter.
 В шаблоне предусмотрен выбор настроек на все важные элементы.
 В случае какой-либо ошибки, вся информация возвращается по файлам и папкам.
@@ -18,8 +15,7 @@
 * подключен сервис гадания капчи rucapcha
 
 ## На выходе, по окончанию регистрации можно выбрать формат выдачи результатов
-* файл в следующем виде:логин:пароль:email:pass
-* профили Zennoposter
+* файл в следующем виде - login_twitter:pass_twitter:auth_token;token_twitter:ct0;ct0_token:login_email:pass_email
 * или и файл и профили Zennoposter
 
 Вы получаете закрытый шаблон, привязанный на вашу почту.
@@ -61,8 +57,7 @@ In case of any error, all information is returned by files and folders.
 * rucapcha captcha divination service is connected
 
 ## At the exit, at the end of registration, you can choose the format for issuing results
-* file in the following form: login: password: email: pass
-* Zennoposter profiles
+* file in the following form - login_twitter:pass_twitter:auth_token;token_twitter:ct0;ct0_token:login_email:pass_email
 * or both file and Zennoposter profiles
 
 You receive a closed template linked to your mail.
