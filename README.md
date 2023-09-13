@@ -79,4 +79,4 @@ You can run at least 100 threads(ZennoBOX has a limit of 20 for all projects) - 
 
 ## Screenshots
 
-![Screenshot](Photo of the project work.png)
+![Screenshot](Photo_of_the_project_work.png)
