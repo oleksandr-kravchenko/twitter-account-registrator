@@ -9,7 +9,7 @@
 * проверка на повторную регистрацию на один и тот же имеил
 * для регистрации не нужны sms!!!
 * подтверждение почты
-* работа через прокси рекомендую https://dashboard.mangoproxy.com/signup?ref=pw1KYf
+* работа через прокси рекомендую <a href="https://dashboard.mangoproxy.com/signup?ref=pw1KYf">Best Proxy</a>
 * многопоток
 * имитация реального человека
 * подключен сервис гадания капчи rucapcha
@@ -51,7 +51,7 @@ In case of any error, all information is returned by files and folders.
 * check for re-registration on the same email
 *SMS is not required for registration!!!
 * mail confirmation
-* work through a proxy (https://dashboard.mangoproxy.com/signup?ref=pw1KYf)
+* work through a <a href="https://dashboard.mangoproxy.com/signup?ref=pw1KYf">Best Proxy</a>
 * multithread
 * imitation of a real person
 * rucapcha captcha divination service is connected
